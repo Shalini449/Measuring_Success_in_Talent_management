@@ -1,3 +1,4 @@
+
 # Measuring_Success_in_Talent_management
 
 Dashboard Link https://public.tableau.com/views/Dashboard1_16970194791080/HRANALYTICSDASHBOARD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
@@ -9,3 +10,5 @@ EmpathyMap Link https://drive.google.com/file/d/1OoG4792HPNQvaqhC_g4FFNYTUbtkS02
 Brainstorming Map Link https://drive.google.com/file/d/1OvLo4bHgcERzvPqPsH6a9SUyXoXDQVHo/view?usp=drivesdk
 
  Video demonstration Link https://drive.google.com/file/d/1g28S7KWh7QyJuT4WfxVUy0P02-PyeMG5/view?usp=drivesdk
+
+Report Link https://1drv.ms/w/s!AlDivyjiANFaal8BaTWZXjjtlYs?e=FfWakp
